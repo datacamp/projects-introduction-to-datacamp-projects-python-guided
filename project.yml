@@ -1,4 +1,4 @@
-title          : "Introduction to DataCamp Projects"
+title          : "Introduction to DataCamp Projects (python)"
 description    : >
   If you've never done a DataCamp project, this is the place to start! 
 language       : python
@@ -12,7 +12,7 @@ long_description: |
   In this gentle introduction to DataCamp projects, we will walk you through the projects
   interface and you will learn how to work with Jupyter notebooks: 
   an open-source web application that is great for interactive data analysis.
-technology: 2
+technology: 2 
 instructors:
   - rasmus@datacamp.com
 collaborators:
