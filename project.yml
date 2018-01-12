@@ -2,7 +2,7 @@ title          : "Introduction to DataCamp Projects"
 description    : >
   If you've never done a DataCamp project, this is the place to start! 
 language       : python
-from           : 'python-notebooks-prod:93'
+from           : 'python-notebooks-prod:109'
 runtime_config : default
 state          : development
 long_description: |
