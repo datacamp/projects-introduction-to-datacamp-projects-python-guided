@@ -1,7 +1,6 @@
 # If bash command fails, build should error out
 set -e
 
-
 ##### Install specific package versions with pip #####
 pip3 install pandas==0.20.3
 pip3 install folium==0.5.0
