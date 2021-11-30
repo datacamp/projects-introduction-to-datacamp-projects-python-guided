@@ -2,9 +2,9 @@
 set -e
 
 ##### Install specific package versions with pip #####
-pip3 install pandas==0.20.3
-pip3 install folium==0.5.0
-pip3 install matplotlib==2.0.2
+pip3 install pandas
+pip3 install folium
+pip3 install matplotlib
 
 ##### Add files to the datasets/ folder on the live project #####
 
