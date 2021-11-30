@@ -16,7 +16,7 @@ time_needed: "30 minutes" # "30/45/60 minutes". # DataCamp fills out
 is_guided: True
 
 language       : python
-from           : 'python-notebooks-prod:v2.2.0'
+from           : 'python-notebooks-prod:v2.4.0-rc.3'
 runtime_config : default
 state          : development
 
